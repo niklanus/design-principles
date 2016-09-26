@@ -1,0 +1,12 @@
+$main: #FF6522;
+
+// @import 'components/normalize';
+@import 'components/global';
+@import 'components/layout';
+@import 'components/typography';
+
+.heading {
+	color: white;
+	background: $main;
+	padding: 50px 0;
+}
