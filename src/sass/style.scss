@@ -1,9 +1,10 @@
-$main: #FF6522;
+$main: #FF6448;
 
 // @import 'components/normalize';
 @import 'components/global';
 @import 'components/layout';
 @import 'components/typography';
+@import 'components/principles';
 
 .heading {
 	color: white;

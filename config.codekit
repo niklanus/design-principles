@@ -109,6 +109,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/src\/sass\/components\/_principles.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sass\/components\/_principles.scss",
+		"outputAbbreviatedPath": "\/src\/sass\/css\/_principles.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/src\/sass\/components\/_typography.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -144,7 +160,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Nik Lanús",
+"lastSavedByUser": "Nik Lanus",
 "manualImportLinks": {
 	},
 "projectAttributes": {

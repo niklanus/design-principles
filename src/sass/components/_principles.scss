@@ -1,0 +1,45 @@
+.side-caption {
+    display: flex;
+    margin: 0;
+}
+
+.caption {
+    font-size: 0.875rem;
+    line-height: 1.5;
+    padding-left: 1.5em;
+    color: #A4A4A4;
+
+    strong {
+        display: block;
+        position: relative;
+        margin-bottom: 2em;
+        font-size: 0.8125rem;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        color: black;
+
+        &::before {
+            content: '';
+            width: 20px;
+            height: 2px;
+            background: $main;
+            position: absolute;
+            bottom: -13px;
+            display: block;
+        }
+    }
+}
+
+.grid {
+	display: flex;
+
+    &--visibility {
+        .grid-item:first-child {
+            padding-right: 1.5em;
+        }
+
+        .grid-item:last-child {
+            padding-left: 1.5em;
+        }
+    }
+}
